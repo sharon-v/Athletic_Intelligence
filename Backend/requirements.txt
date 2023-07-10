@@ -1,0 +1,6 @@
+flask==2.2.3
+mediapipe==0.9.3.0
+tensorflow==2.12.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+Pillow==9.5.0

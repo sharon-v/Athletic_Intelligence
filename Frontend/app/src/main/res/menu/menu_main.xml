@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home_icon"
+            android:title="Home Page"
+            android:visible="true"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/achievements_page"
+            android:icon="@drawable/trophy_icon"
+            android:title="Achievements"
+            android:visible="true"
+            app:showAsAction="withText"/>
+        <item
+            android:id="@+id/user_profile"
+            android:icon="@drawable/user_icon_black"
+            android:title="User Profile"
+            android:visible="true"
+            app:showAsAction="withText" />
+        <item
+            android:id="@+id/user_guide"
+            android:icon="@drawable/guide_icon"
+            android:title="User Guide"
+            android:visible="true"
+            app:showAsAction="withText" />
+        <item
+            android:id="@+id/app_info"
+            android:title="Info"
+            android:icon="@drawable/info_icon_black"
+            android:visible="true"
+            app:showAsAction="withText" />
+</menu>
+

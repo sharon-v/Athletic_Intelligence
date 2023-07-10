@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AchievementsActivity">
+
+    <TextView
+        android:id="@+id/textViewAchieveHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingVertical="10sp"
+        android:text="@string/achieve_header"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/teal_700"
+        android:textSize="30sp">
+
+    </TextView>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        tools:visibility="visible" />
+
+    <ScrollView
+        android:layout_width="380dp"
+        android:layout_height="520dp"
+        android:contentDescription="@string/achieve_header">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <ImageView
+                    android:id="@+id/countAward"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:clickable="true"
+                    android:contentDescription="@string/award"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Count Award"/>
+
+                <ImageView
+                    android:id="@+id/accuracyAward"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:clickable="true"
+                    android:contentDescription="@string/award"
+                    android:foregroundTint="#B6B5B5"
+                    android:tooltipText="Accuracy Award"
+                    app:srcCompat="@android:drawable/ic_lock_lock" />
+
+                <ImageView
+                    android:id="@+id/timeAward"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Time Award"
+
+                    />
+
+                <ImageView
+                    android:id="@+id/fightAward"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:clickable="false"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Fight Award"/>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:gravity="center|center_horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_lock"
+                    android:tooltipText="Coming Soon"/>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center|center_horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    app:srcCompat="@android:drawable/ic_lock_idle_lock"
+                    android:tooltipText="Coming Soon"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp" />
+
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp"
+    app:menu="@menu/menu_main"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/user_details"
+        android:layout_width="145dp"
+        android:layout_height="59dp"
+        android:gravity="center"
+        android:text="Hello world"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="302dp" />
+
+
+    <Button
+        android:id="@+id/training"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Training"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="382dp" />
+    <Button
+        android:id="@+id/fight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fight"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="382dp" />
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="637dp" />
+
+
+</LinearLayout>

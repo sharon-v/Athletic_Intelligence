@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Athletic Intelligence</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="reset_password" />
+    <string name="forgot_password" />
+    <string name="enter_email" />
+    <string name="click_to_registerr" />
+    <string name="action_search" />
+    <string name="title_activity_app_info">AppInfoActivity</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_info">About</string>
+    <string name="app_info_text">Welcome to \"Athletic Intelligence\" app version 1.0.0!\nWe are thrilled to offer you a cutting-edge fitness tool that uses AI and camera technology to detect and correct your training form. Our app is designed to help you optimize your workouts and prevent injuries by providing real-time feedback on your technique. Our developers team has worked tirelessly to create an intuitive and user-friendly app that will help you achieve your fitness goals. We are committed to constantly improving our app and adding new features to enhance your experience. \nThank you for choosing us to help you on your fitness journey!\n\nWe value your input, if you have any questions or feedback about our app, please do not hesitate to reach out to us at this Email:\nAthletic.Intelligence@support.co.il
+    \n\nPlease read our policy, terms and disclaimer in the \"Policy &amp; Terms\" tab before use.\n</string>
+    <string name="policy_header">Policy</string>
+    <string name="policy_text">\nLast updated: June 6th 2023\n\n* ~~~~ Disclaimer ~~~~ *
+        \nPlease read this disclaimer carefully before using our fitness app. Your use of the app indicates your acceptance of the terms and conditions outlined below.
+        \n\n1. Not Medical Advice: The information provided by this fitness app is for general informational purposes only and is not intended as medical advice. The app is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider before starting any exercise program or making any changes to your current regimen.
+        \n\n2. Individual Responsibility: By using this fitness app, you acknowledge that you are responsible for your own health and well-being. You understand that participating in physical activities, exercises, and workouts carries inherent risks, including the risk of injury. It is your responsibility to assess your own fitness level and consult with a healthcare professional to determine the appropriateness of any exercise or workout routine.
+        \n\n3. Personal Limitations: You acknowledge that everyone has different fitness levels, abilities, and limitations. The exercises and workouts provided within the app may not be suitable for everyone. It is important to listen to your body and modify or stop any activity that causes discomfort, pain, or undue strain. If you have any pre-existing medical conditions or injuries, it is crucial to consult with a healthcare professional before using the app.
+        \n\n4. Assumption of Risk: By using this fitness app, you voluntarily assume all risks associated with physical activities, exercises, and workouts. You understand that injuries, including but not limited to strains, sprains, muscle soreness, fractures, and cardiovascular events, may occur as a result of using the app. You agree to release and hold harmless the app developers, owners, and affiliates from any liability arising from your use of the app.
+        \n\n5. No Liability: The developers, owners, and affiliates of this fitness app shall not be held liable for any direct or indirect damages, injuries, losses, or claims arising from your use of the app or reliance on the information provided. This includes, but is not limited to, any errors or omissions in the content, or any actions taken or not taken as a result of using the app.
+        \n\n6. User Discretion: The app provides information and guidance based on general principles of fitness and exercise. However, the app cannot take into account individual circumstances or personal health conditions. You should use your discretion and judgment in applying the information provided within the app, and always consult with a healthcare professional when in doubt.
+        \n\nRemember, your health and safety are of utmost importance. If at any time during your use of the fitness app you experience pain, dizziness, shortness of breath, or any other concerning symptoms, stop the activity immediately and seek appropriate medical attention.
+        \n\nBy using this fitness app, you acknowledge that you have read and understood this disclaimer and agree to its terms and conditions.\n
+        \n\n  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nPlease read these Terms of Use and Privacy Policy Agreement carefully before using our mobile application. This Agreement sets forth the legally binding terms and conditions for your use of the App.
+        \n\n* ~~~~ Terms of Use ~~~~ *
+        \n\n1. User Responsibilities: By using our App, you agree to use it in accordance with applicable laws and regulations. You are solely responsible for any content you submit or share through the App.
+        \n\n2. Intellectual Property: All intellectual property rights in the App, including copyrights, trademarks, and logos, belong to us. You may not copy, modify, distribute, or use our intellectual property without our prior written consent.
+        \n\n3. Disclaimer of Liability: The App is provided on an "as is" basis without warranties of any kind, either express or implied. We do not guarantee the accuracy, reliability, or availability of the App. You use the App at your own risk.
+        \n\n4. Limitation of Liability: We shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages arising from your use of the App. We are not responsible for any loss or damage caused by your reliance on information obtained through the App.
+        \n\n  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n* ~~~~ Privacy Policy ~~~~ *
+        \n\n1. Information Collection: We may collect personal information, such as your name and email address, when you use the App. We use this information solely for the purpose of providing and improving the App.
+        \n\n2. Data Security: We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. However, we cannot guarantee the security of your information.
+        \n\n3. Third-Party Services: The App may contain links to third-party websites or services that are not owned or controlled by us. We are not responsible for the privacy practices or content of those websites or services.
+        \n\n4. Data Retention: We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+        \n\nUpdates to the Policy: We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy on the App.
+        \n\n  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nContact Us:
+        \nIf you have any questions or concerns about this Agreement or our App, please contact us at Email:\nAthletic.Intelligence@support.co.il
+        \n\nBy using our App, you acknowledge that you have read, understood, and agree to be bound by this Agreement, including both the Terms of Use and Privacy Policy.\n</string>
+    <string name="achieve_header">Achievements</string>
+    <string name="award">award</string>
+    <string name="guide_header">User Guide</string>
+    <string name="guide_text">\nThe app is designed to be simple to use.
+        \n\nStep 1:\nChoose a training method - Training or Fight.
+        \n\nStep 2:\n* If you chose Training, choose the exercise you want.\n* If you chose Fight, choose the exercise and the number of repetitions.
+        \n\nStep 3:\nThe camera will open, make sure your entire body is inside the frame for better accuracy.
+        \n\nStep 4:\nEnjoy your training!\n
+    </string>
+    <string name="fight">fight</string>
+</resources>

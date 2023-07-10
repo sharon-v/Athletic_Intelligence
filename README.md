@@ -1,5 +1,5 @@
 # Final Project - Athletic Intelligence
-![app logo](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/3d65ead1-0a1e-4e5d-ab36-bc36adf7d47e)
+![app logo crop](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/b8ceb3e0-3336-4da1-a778-d2f126fdb315)
 ***
 
 ## Description

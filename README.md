@@ -49,8 +49,15 @@ To activate the app, you need to follow the next steps:
 
 ***
 ## Usage
+This is how the model works:
+https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/8aa8d982-2a14-4532-826d-fd6d87731ff8
+<video src='https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/8aa8d982-2a14-4532-826d-fd6d87731ff8'/>
 
-TBA
+![image](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/0ee5196a-8d65-45cc-b89f-9cd89a103c48)
+![image](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/5533caaf-3322-466b-9d72-2b40d66808fe)
+![image](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/85139840-9533-4870-8084-abbddbd05ac6)
+![image](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/4eb4fa04-4600-4b54-80e2-227804115ee2)
+![image](https://github.com/sharon-v/Athletic_Intelligence/assets/73613716/842edc90-4186-4859-97aa-57b14ca5ea9c)
 
 ***
 ## Authors
